@@ -1,0 +1,1 @@
+web: python dino_ai.py
